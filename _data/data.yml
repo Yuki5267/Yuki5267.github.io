@@ -1,286 +1,196 @@
 #
+# Qi You - Marketing Portfolio
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: True
+  education: True
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Qi You
+  tagline: Bilingual Marketing Specialist | Content, Events & Product Storytelling
+  avatar:
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: yukiu77@163.com
+  phone:
+  timezone: America/New_York
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  website: https://Yuki5267.github.io
+  linkedin:
+  xing:
+  github: Yuki5267
+  telegram:
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  bluesky:
+  twitter:
+  stack-overflow:
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  goodreads:
+  mastodon:
+  hackerrank:
+  leetcode:
+  pdf:
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Mandarin Chinese
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: English
+      level: Professional Working Proficiency
 
   interests:
-    title: Interests
+    title: Focus Areas
     info:
-    - item: Climbing
+    - item: B2B Marketing Communications
       link:
 
-
-    - item: Snowboarding
+    - item: Content Marketing
       link:
 
-
-    - item: Cooking
+    - item: Event & Tradeshow Marketing
       link:
 
+    - item: Product Storytelling
+      link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Bilingual marketing specialist with experience in B2B marketing communications, content operations, product collateral, social media, and event marketing. I help companies turn complex product, brand, and event information into clear messaging, marketing materials, and organized execution plans.
+
+    I hold an M.S. in Integrated Marketing from New York University and have hands-on experience building marketing infrastructure, launching owned media channels, coordinating cross-functional stakeholders, and supporting event and tradeshow execution across China and the U.S.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: M.S. in Integrated Marketing
+    university: New York University
+    time: Sept. 2022 - June 2024
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Relevant coursework included Digital Marketing, Integrated Marketing, Databases, Statistics & Measurement, Analytics & Research.
+
+  - degree: B.S. in Building Environment and Energy Engineering
+    university: Aston University
+    time: Sept. 2018 - June 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Relevant coursework included Marketing, Digital Marketing, Sustainable Marketing, Services Marketing, Marketing Communications, and Event Marketing.
 
 experiences:
-  title: Experiences
+  title: Professional Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Marketing Specialist
+    time: Nov. 2024 - Jul. 2025
+    company: ShareE Co., Ltd, Shanghai, China
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Built and organized the company's marketing foundation across external messaging, product collateral, owned media, short-form video, event marketing, and internal documentation.
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+        - Built core marketing infrastructure from scratch and standardized external messaging for company-facing and public-facing materials.
+        - Led the finalization of company overview materials and aligned multiple stakeholders across Product, Sales, Delivery/Consulting, design, and vendor teams.
+        - Audited and restructured messaging for existing product lines; created and updated one-pagers, WeChat articles, and website product copy to improve consistency and sales enablement readiness.
+        - Launched and operated the company WeChat Official Account end-to-end, including positioning, content pillars, publishing cadence, and content planning.
+        - Published 50+ WeChat posts covering product updates, industry topics, and event communications.
+        - Launched the company short-video channel from scratch; supported topic selection, scripting, filming, and editing for 10 short videos.
+        - Planned and executed 5 tradeshow/expo participations, including event planning, collateral production, design/vendor coordination, onsite operations, and post-event promotion.
+        - Built an internal knowledge base for brand, product, and event assets, improving material reuse and cross-team collaboration.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+  - role: Communications Intern
+    time: May 2021 - May 2022
+    company: Shanghai Yicai Foundation, Shanghai, China
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Supported multi-platform communication, content distribution, and offline event operations for foundation programs.
+
+        - Managed content distribution across WeChat, Weibo, website, and Xiaohongshu.
+        - Created platform-specific promotional posts to increase visibility and engagement for foundation programs.
+        - Supported offline event planning and execution, including event preparation, media archives, and cross-department coordination.
+        - Assisted with meeting coordination and process optimization to improve team communication efficiency.
+
+  - role: Marketing Intern
+    time: Sept. 2020 - Dec. 2020
+    company: Abbott (Shanghai) Trading Co., Ltd, Shanghai, China
+    details: |
+      Supported market research, marketing strategy preparation, workflow tracking, and agency/vendor coordination.
+
+        - Conducted market and competitor research and summarized consumer insights to support marketing strategy and advertising planning.
+        - Tracked key steps of the BMP payment workflow and coordinated with Finance, Procurement, and vendors to support smooth execution.
+        - Supported agency and partner relationship management for marketing-related projects.
 
 projects:
-  title: Projects
+  title: Selected Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Selected marketing, communications, content, and event projects that demonstrate my ability to organize information, build marketing materials, coordinate stakeholders, and support campaign execution.
+
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
+  - title: Building Marketing Infrastructure from Scratch
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Developed company overview materials, product messaging, website copy, one-pagers, content workflows, and an internal knowledge base for a B2B company."
 
-  - title: Tempo
+  - title: WeChat & Short-Form Video Content Operations
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Launched and operated owned media channels, published 50+ WeChat posts, and supported 10 short-form videos across product, industry, and event topics."
 
-  - title: Atom
+  - title: Tradeshow & Expo Marketing Execution
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Planned and executed 5 tradeshow/expo projects, including event timelines, collateral production, vendor coordination, onsite operations, and post-event recaps."
 
-  - title: Delta
+  - title: UN Youth Forum Side Event / Clermont Eco-Civilization International Forum
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Supported event strategy, agenda planning, budget coordination, speaker communication, onsite operations, and issue resolution for New York-based international forum events with 800+ attendees per event."
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
+  - title: Selected Event Projects
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+    tagline: "Supported planning, vendor coordination, promotional materials, multi-channel campaign execution, and post-event recaps for brand and public communication events."
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Marketing Skills & Tools
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: Marketing Communications
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Content Marketing
+    level: 90%
+
+  - name: Event & Tradeshow Marketing
+    level: 90%
+
+  - name: Product Marketing Collateral
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: Social Media Operations
+    level: 85%
+
+  - name: Short-Form Video Planning
+    level: 80%
+
+  - name: Cross-Functional Stakeholder Management
+    level: 85%
+
+  - name: Vendor & Design Coordination
+    level: 80%
+
+  - name: Internal Knowledge Base & Documentation
+    level: 85%
+
+  - name: Microsoft Office
+    level: 90%
+
+  - name: Excel
+    level: 80%
+
+  - name: SQL
+    level: 65%
+
+  - name: SPSS
+    level: 65%
+
+  - name: SAS
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Built with GitHub Pages as a personal marketing portfolio.
