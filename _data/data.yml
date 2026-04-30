@@ -1,6 +1,6 @@
 #
 # Qi You - Marketing Portfolio
-# Be aware that even a small syntax error here can lead to failures in output.
+# File: _data/data.yml
 #
 
 sidebar:
@@ -10,18 +10,18 @@ sidebar:
 
   # Profile information
   name: Qi You
-  tagline: Bilingual Marketing Specialist | Content, Events & Product Storytelling
+  tagline: Bilingual Marketing Specialist
   avatar:
 
   # Sidebar links
   email: yukiu77@163.com
   phone:
-  timezone: America/New_York
+  timezone:
   citizenship:
   website: https://Yuki5267.github.io
   linkedin:
   xing:
-  github: Yuki5267
+  github:
   telegram:
   gitlab:
   bitbucket:
@@ -56,15 +56,18 @@ sidebar:
     - item: Event & Tradeshow Marketing
       link:
 
+    - item: Product Collateral
+      link:
+
     - item: Product Storytelling
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Bilingual marketing specialist with experience in B2B marketing communications, content operations, product collateral, social media, and event marketing. I help companies turn complex product, brand, and event information into clear messaging, marketing materials, and organized execution plans.
+    Bilingual marketing specialist focused on content marketing, event marketing, product collateral, and B2B marketing communications. I help teams turn complex product, brand, and event information into clear messaging, organized materials, and executable marketing plans.
 
-    I hold an M.S. in Integrated Marketing from New York University and have hands-on experience building marketing infrastructure, launching owned media channels, coordinating cross-functional stakeholders, and supporting event and tradeshow execution across China and the U.S.
+    My experience includes building marketing infrastructure from scratch, launching owned media channels, publishing 50+ WeChat posts, supporting 10 short-form videos, and executing 5 tradeshow/expo projects across China and the U.S.
 
 education:
   title: Education
@@ -73,13 +76,13 @@ education:
     university: New York University
     time: Sept. 2022 - June 2024
     details: |
-      Relevant coursework included Digital Marketing, Integrated Marketing, Databases, Statistics & Measurement, Analytics & Research.
+      Relevant coursework: Digital Marketing, Integrated Marketing, Databases, Statistics & Measurement, Analytics & Research.
 
   - degree: B.S. in Building Environment and Energy Engineering
     university: Aston University
     time: Sept. 2018 - June 2022
     details: |
-      Relevant coursework included Marketing, Digital Marketing, Sustainable Marketing, Services Marketing, Marketing Communications, and Event Marketing.
+      Relevant coursework: Marketing, Digital Marketing, Sustainable Marketing, Services Marketing, Marketing Communications, and Event Marketing.
 
 experiences:
   title: Professional Experience
@@ -91,23 +94,21 @@ experiences:
       Built and organized the company's marketing foundation across external messaging, product collateral, owned media, short-form video, event marketing, and internal documentation.
 
         - Built core marketing infrastructure from scratch and standardized external messaging for company-facing and public-facing materials.
-        - Led the finalization of company overview materials and aligned multiple stakeholders across Product, Sales, Delivery/Consulting, design, and vendor teams.
-        - Audited and restructured messaging for existing product lines; created and updated one-pagers, WeChat articles, and website product copy to improve consistency and sales enablement readiness.
-        - Launched and operated the company WeChat Official Account end-to-end, including positioning, content pillars, publishing cadence, and content planning.
+        - Created and updated product one-pagers, WeChat articles, and website product copy to improve consistency and sales enablement readiness.
+        - Launched and operated the company WeChat Official Account, including positioning, content pillars, publishing cadence, and content planning.
         - Published 50+ WeChat posts covering product updates, industry topics, and event communications.
-        - Launched the company short-video channel from scratch; supported topic selection, scripting, filming, and editing for 10 short videos.
-        - Planned and executed 5 tradeshow/expo participations, including event planning, collateral production, design/vendor coordination, onsite operations, and post-event promotion.
-        - Built an internal knowledge base for brand, product, and event assets, improving material reuse and cross-team collaboration.
+        - Planned and executed 5 tradeshow/expo participations, including event planning, collateral production, vendor coordination, onsite operations, and post-event promotion.
+        - Built an internal knowledge base for brand, product, and event assets to improve material reuse and cross-team collaboration.
 
   - role: Communications Intern
     time: May 2021 - May 2022
     company: Shanghai Yicai Foundation, Shanghai, China
     details: |
-      Supported multi-platform communication, content distribution, and offline event operations for foundation programs.
+      Supported multi-platform communications, content distribution, and offline event operations for foundation programs.
 
         - Managed content distribution across WeChat, Weibo, website, and Xiaohongshu.
         - Created platform-specific promotional posts to increase visibility and engagement for foundation programs.
-        - Supported offline event planning and execution, including event preparation, media archives, and cross-department coordination.
+        - Supported offline event planning and execution, including preparation, media archives, and cross-department coordination.
         - Assisted with meeting coordination and process optimization to improve team communication efficiency.
 
   - role: Marketing Intern
@@ -121,33 +122,33 @@ experiences:
         - Supported agency and partner relationship management for marketing-related projects.
 
 projects:
-  title: Selected Projects
+  title: Selected Marketing Projects
   intro: >
-    Selected marketing, communications, content, and event projects that demonstrate my ability to organize information, build marketing materials, coordinate stakeholders, and support campaign execution.
+    Selected projects showing my experience in marketing communications, content operations, product collateral, event marketing, and cross-functional execution.
 
   assignments:
-  - title: Building Marketing Infrastructure from Scratch
+  - title: "Marketing Infrastructure Buildout"
     link: "#"
-    tagline: "Developed company overview materials, product messaging, website copy, one-pagers, content workflows, and an internal knowledge base for a B2B company."
+    tagline: "Built foundational marketing systems for a B2B company, including company overview materials, product messaging, website copy, one-pagers, and an internal marketing knowledge base."
 
-  - title: WeChat & Short-Form Video Content Operations
+  - title: "Owned Media: WeChat & Short-Form Video"
     link: "#"
     tagline: "Launched and operated owned media channels, published 50+ WeChat posts, and supported 10 short-form videos across product, industry, and event topics."
 
-  - title: Tradeshow & Expo Marketing Execution
+  - title: "Tradeshow & Expo Marketing Execution"
     link: "#"
-    tagline: "Planned and executed 5 tradeshow/expo projects, including event timelines, collateral production, vendor coordination, onsite operations, and post-event recaps."
+    tagline: "Planned and executed 5 tradeshow/expo projects, covering event timelines, collateral production, vendor coordination, onsite operations, and post-event communications."
 
-  - title: UN Youth Forum Side Event / Clermont Eco-Civilization International Forum
+  - title: "International Forum Event Operations"
     link: "#"
     tagline: "Supported event strategy, agenda planning, budget coordination, speaker communication, onsite operations, and issue resolution for New York-based international forum events with 800+ attendees per event."
 
-  - title: Selected Event Projects
+  - title: "Multi-Platform Communications for Foundation Programs"
     link: "#"
-    tagline: "Supported planning, vendor coordination, promotional materials, multi-channel campaign execution, and post-event recaps for brand and public communication events."
+    tagline: "Supported communications across WeChat, Weibo, website, and Xiaohongshu, creating platform-specific promotional content and assisting with offline event execution."
 
 skills:
-  title: Marketing Skills & Tools
+  title: "Marketing Skills & Tools"
 
   toolset:
   - name: Marketing Communications
@@ -160,6 +161,9 @@ skills:
     level: 90%
 
   - name: Product Marketing Collateral
+    level: 85%
+
+  - name: B2B Product Storytelling
     level: 85%
 
   - name: Social Media Operations
